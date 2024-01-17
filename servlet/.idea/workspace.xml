@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c713a71-e8ae-4839-9d7c-817a6c3d5620" name="Changes" comment="" />
+    <list default="true" id="0c713a71-e8ae-4839-9d7c-817a6c3d5620" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/hello.servlet.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/hello.servlet.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/basic/HelloServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/basic/request/RequestHeaderServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/servlet/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servlet/src/main/resources/static/basic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/servlet/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/servlet/src/main/webapp/basic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/servlet/src/main/webapp/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/servlet/src/main/webapp/jsp/members/new-form.jsp" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +31,15 @@
     <system id="GRADLE">
       <state>
         <task path="$PROJECT_DIR$/servlet">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/servlet/src/main/webapp">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/..">
           <activation />
         </task>
         <projects_view>
@@ -40,6 +61,7 @@
       <list>
         <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -50,25 +72,35 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2atBWxvQHBAhpGUFMC7KfkSsGwM" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-<<<<<<< HEAD
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
 =======
->>>>>>> origin/main
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+&gt;&gt;&gt;&gt;&gt;&gt;&gt; origin/main
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\GRAVITY\Desktop\wellsbabo\study\spring_mvc_1\servlet\servlet\src\main\java\hello\servlet" />
+      <recent name="C:\Users\GRAVITY\Desktop\wellsbabo\study\spring_mvc_1\servlet\servlet\src\main\webapp" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Projects\spring_mvc_1\servlet\servlet\src\main\resources\static" />
+      <recent name="C:\Users\GRAVITY\Desktop\wellsbabo\study\spring_mvc_1\servlet\servlet\src\main\webapp" />
+      <recent name="C:\Users\GRAVITY\Desktop\wellsbabo\study\spring_mvc_1\servlet\servlet\src\main" />
+      <recent name="C:\Users\GRAVITY\Desktop\wellsbabo\study\spring_mvc_1\servlet\servlet\src\main\resources\static" />
+      <recent name="C:\Users\GRAVITY\Desktop\wellsbabo\study\spring_mvc_1\servlet\servlet\src\main\webapp\jsp\members" />
+      <recent name="C:\Users\GRAVITY\Desktop\wellsbabo\study\spring_mvc_1\servlet\servlet\src\main\webapp\WEB-INF\jsp" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -77,7 +109,7 @@
       <recent name="hello.servlet.domain.member" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.ServletApplication (1)">
+  <component name="RunManager" selected="Spring Boot.ServletApplication">
     <configuration name="ServletApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hello.servlet.ServletApplication" />
       <module name="hello.servlet.main" />
@@ -104,6 +136,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C:/Users/GRAVITY/Desktop/wellsbabo/study/spring_mvc_1 [bootRun]" type="GradleRunConfiguration" factoryName="Gradle" nameIsGenerated="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/.." />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>false</ForceTestExec>
+      <method v="2" />
+    </configuration>
     <configuration name="MemberRepositoryTest.findAll" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -125,6 +179,7 @@
       <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>false</ForceTestExec>
       <method v="2" />
     </configuration>
     <configuration name="MemberRepositoryTest.save" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
@@ -148,8 +203,24 @@
       <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>false</ForceTestExec>
       <method v="2" />
     </configuration>
+    <configuration name="ServletApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="hello.servlet.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="hello.servlet.ServletApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.C:/Users/GRAVITY/Desktop/wellsbabo/study/spring_mvc_1 [bootRun]" />
+      <item itemvalue="Gradle.MemberRepositoryTest.findAll" />
+      <item itemvalue="Gradle.MemberRepositoryTest.save" />
+      <item itemvalue="Spring Boot.ServletApplication" />
+      <item itemvalue="애플리케이션.ServletApplication" />
+      <item itemvalue="애플리케이션.ServletApplication (1)" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="애플리케이션.ServletApplication (1)" />
@@ -167,7 +238,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705128035008</updated>
+      <workItem from="1705447518402" duration="4737000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
