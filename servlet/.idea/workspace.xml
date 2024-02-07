@@ -109,7 +109,7 @@
       <recent name="hello.servlet.domain.member" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.ServletApplication">
+  <component name="RunManager" selected="애플리케이션.ServletApplication (1)">
     <configuration name="ServletApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hello.servlet.ServletApplication" />
       <module name="hello.servlet.main" />
@@ -155,7 +155,6 @@
       <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
-      <ForceTestExec>false</ForceTestExec>
       <method v="2" />
     </configuration>
     <configuration name="MemberRepositoryTest.findAll" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
@@ -179,7 +178,6 @@
       <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
-      <ForceTestExec>false</ForceTestExec>
       <method v="2" />
     </configuration>
     <configuration name="MemberRepositoryTest.save" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
@@ -203,7 +201,6 @@
       <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
-      <ForceTestExec>false</ForceTestExec>
       <method v="2" />
     </configuration>
     <configuration name="ServletApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
@@ -217,7 +214,6 @@
       <item itemvalue="Gradle.C:/Users/GRAVITY/Desktop/wellsbabo/study/spring_mvc_1 [bootRun]" />
       <item itemvalue="Gradle.MemberRepositoryTest.findAll" />
       <item itemvalue="Gradle.MemberRepositoryTest.save" />
-      <item itemvalue="Spring Boot.ServletApplication" />
       <item itemvalue="애플리케이션.ServletApplication" />
       <item itemvalue="애플리케이션.ServletApplication (1)" />
     </list>
